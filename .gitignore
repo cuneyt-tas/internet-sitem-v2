@@ -1,0 +1,9 @@
+/.env
+/wp/wp-content/themes/*
+!/wp/wp-content/themes/cuneyt-tas
+/wp/*
+!/wp/wp-content
+/wp/wp-content/cache
+.DS_Store
+wp/wp-content/plugins/akismet/
+wp/wp-content/plugins/hello.php
